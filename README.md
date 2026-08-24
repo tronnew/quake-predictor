@@ -14,7 +14,7 @@
 ## Quick Start
 
 ```bash
-# Free call (5/day per IP)
+# Free call (1/day per IP)
 curl "http://forex2026.mooo.com:5040/predict?top=5&mag=6.0"
 
 # Paid call — see EIP-3009 integration in docs
