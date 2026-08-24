@@ -6,7 +6,7 @@
 - 📊 Model: logistic regression ensemble, 14-day horizon, M≥6.0, 600km radius
 - 🧠 Backtest precision: **17.3%** · F1 score: **18.3%** (k=7, Aug 2024–2026)
 - ⚠️ Disclaimer: probabilistic advisory — not deterministic prediction
-- 💰 Free tier: 5 calls/day per IP
+- 💰 Free tier: 1 call/day per IP
 - 💵 Paid: 0.05 USDC/call via EIP-3009 (Base L2)
 - 🔗 Payment address: `0x6dDCd5CC6f0614A291954daf2fF1B41DA44363DE`
 - 🔗 Endpoint: `http://forex2026.mooo.com:5040`
